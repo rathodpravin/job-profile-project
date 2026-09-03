@@ -1,0 +1,8 @@
+com\wexa\researchgraph\exception\GlobalExceptionHandler.class
+com\wexa\researchgraph\seed\SeedRunner.class
+com\wexa\researchgraph\service\GraphService.class
+com\wexa\researchgraph\config\CognoDbConfig.class
+com\wexa\researchgraph\controller\GraphController.class
+com\wexa\researchgraph\config\WebConfig.class
+com\wexa\researchgraph\ResearchGraphApplication.class
+com\wexa\researchgraph\repository\GraphRepository.class
